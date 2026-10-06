@@ -10,4 +10,4 @@ Soy un chico sencillo, con ideales simples y **un objetivo**
 - Soy un estudiante dedicado
 - Soy jugador semi-profesional de _SSBU_
 
-- 
+
