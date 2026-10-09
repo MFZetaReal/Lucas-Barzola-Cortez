@@ -1,4 +1,4 @@
-# Lucas Barzola - Peculiaridades Mías 😎
+# Lucas Barzola - Mi Mundo 😎
 
 Soy un chico sencillo, con ideales simples y **un objetivo** 🫡
 
@@ -9,12 +9,17 @@ Soy un chico sencillo, con ideales simples y **un objetivo** 🫡
 - Mi nombre es Lucas
 - Soy Peruano
 - Me gustan los videojuegos y la música
-- Soy un estudiante dedicado
+- Soy un estudiante dedicado (aunque no lo parezca)
 - Soy jugador semi-profesional de _SSBU_ ✨
+- Tengo un talento natural para muchísimas cosas
+
+---
+## Peculiaridades Mías 😉
+
 
 ---
 
-## Frase Motivadora
+## Frase Motivadora~ 
 
 - 🐽 _Si las costillas de cerdo fueran perfectas, no existirían los perros calientes_. 🐽
 
@@ -25,6 +30,10 @@ Soy un chico sencillo, con ideales simples y **un objetivo** 🫡
 Me gusta ver mucho anime y los veo en esta página:
 
 - https://www.crunchyroll.com
+
+Y también me gusta mucho la música y me la paso horas aqui:
+
+- https://open.spotify.com/intl-es
 
 ---
 
