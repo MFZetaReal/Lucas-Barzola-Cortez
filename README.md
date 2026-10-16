@@ -9,19 +9,21 @@ Soy un chico sencillo, con ideales simples y **un objetivo** 🫡
 - Mi nombre es Lucas
 - Soy Peruano
 - Me gustan los videojuegos y la música
-- Soy un estudiante dedicado (aunque no lo parezca)
 - Soy jugador semi-profesional de _SSBU_ ✨
 - Tengo un talento natural para muchísimas cosas
 
 ---
 ## Peculiaridades Mías 😉
-
-
+- Jugué para un equipo de vóleibol en mi país y participé en un par de competiciones.
+- Tengo una especie de trauma con el chocolate.
+- 
 ---
 
-## Frase Motivadora~ 
+## Frases Motivadoras~ 
 
 - 🐽 _Si las costillas de cerdo fueran perfectas, no existirían los perros calientes_. 🐽
+
+-
 
 ---
 
@@ -35,6 +37,8 @@ Y también me gusta mucho la música y me la paso horas aqui:
 
 - https://open.spotify.com/intl-es
 
+---
+<span style="color: red;">Aquí va tu oración de color rojo</span>
 ---
 
 ## Dato Curioso 🤔
