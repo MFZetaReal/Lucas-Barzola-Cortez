@@ -16,14 +16,27 @@ Soy un chico sencillo, con ideales simples y **un objetivo** 🫡
 ## Peculiaridades Mías 😉
 - Jugué para un equipo de vóleibol en mi país y participé en un par de competiciones.
 - Tengo una especie de trauma con el chocolate.
-- 
+- Tengo un **gran problema** con el orden de las cosas.
+---
+## Habilidades 🐲
+
+|Habilidad|Nivel|Tiempo Practicado|
+|:-:|:-:|:-:|
+|Deportes|Medio-Alto|6 años|
+|Estudios|Medio-Bajo|1 año|
+|Videojuegos|Alto|11 años|
+|Paciencia|Muy Alta|4 años|
+|Razonamiento|Medio-Alto|Toda la vida|
+|Empatía|Muy Alta|4 años|
+|Humor|Roto|Indefinido|
+
 ---
 
 ## Frases Motivadoras~ 
 
 - 🐽 _Si las costillas de cerdo fueran perfectas, no existirían los perros calientes_. 🐽
 
--
+- 🗡️ _Un ganador es solo un perdedor que lo intento una vez mas_. 🛡️
 
 ---
 
@@ -37,8 +50,10 @@ Y también me gusta mucho la música y me la paso horas aqui:
 
 - https://open.spotify.com/intl-es
 
----
-<span style="color: red;">Aquí va tu oración de color rojo</span>
+Por último soy alguien que se entretiene con poco, jugando:
+
+-https://www.nytimes.com/games/wordle/index.html?eafs_enabled=false
+
 ---
 
 ## Dato Curioso 🤔
